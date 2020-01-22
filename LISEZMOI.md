@@ -196,7 +196,7 @@ Sachant que :
 
 Lorsque l'on lance le jeu, voilà ce qui est affiché :
 
-![](./assets/b/Start.png)
+![](assets/b/Start.png)
 
 - *Pioche* affiche la lettre sélectionnée par l'utilisateur ;
 - *Attendu* affiche la valeur que la fonction `lettreEstDansMot` devrait retourner ;
@@ -204,19 +204,19 @@ Lorsque l'on lance le jeu, voilà ce qui est affiché :
 
 Si l'utilisateur clique sur une lettre qui est contenue dans le mot, voici ce qui devrait s'afficher.
 
-![](./assets/b/True.correct.png)
+![](assets/b/True.correct.png)
 
 Si la fonction ne retourne pas la bonne valeur, et doit donc être corrigée, alors ceci s'affiche :
 
-![](./assets/b/True.bug.png)
+![](assets/b/True.bug.png)
 
 Si l'utilisateur clique sur une lettre qui n'est **pas** contenue dans le mot, voici ce qui devrait s'afficher :
 
-![](./assets/b/False.correct.png)
+![](assets/b/False.correct.png)
 
 Si la fonction ne retourne pas la bonne valeur, et doit donc être corrigée, alors ceci s'affiche :
 
-![](./assets/b/False.bug.png)
+![](assets/b/False.bug.png)
 
 ### Tests
 
